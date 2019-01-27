@@ -1,5 +1,6 @@
-Terraform a static site on AWS with S3, Cloudfront, Route53, ACM
-Setup assumes the following:
+### Terraform a static site on AWS with S3, Cloudfront, Route53, ACM
+
+*Setup assumes the following:*
 
   - AWS credentials configured
   - Domain Nameservers on Route53 with a Zone ID
